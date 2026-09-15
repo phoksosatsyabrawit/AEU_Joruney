@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88E717-2375-47D7-BB16-A2BC68561C80}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\week1\\c sharp\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B88E717-2375-47D7-BB16-A2BC68561C80}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88E717-2375-47D7-BB16-A2BC68561C80}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\week1\\c sharp\\demo1\\demo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B88E717-2375-47D7-BB16-A2BC68561C80}|Demo1\\Demo1.csproj|solutionrelative:demo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Person.cs",
+              "RelativeDocumentMoniker": "Demo1\\Person.cs",
+              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Person.cs",
+              "RelativeToolTip": "Demo1\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T07:36:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T07:35:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
