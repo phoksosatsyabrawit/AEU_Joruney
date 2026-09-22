@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\",
+  "WorkspaceRootPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\week1\\c sharp\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\c sharp\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\week1\\c sharp\\demo1\\demo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\c sharp\\demo1\\demo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|solutionrelative:demo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|d:\\aeu\\year3 semester1\\4.code\\project\\c sharp\\demo1\\demo1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EF4FA-8D1C-D79B-95D2-37981C8D2280}|Demo1\\Demo1.csproj|solutionrelative:demo1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Student.cs",
+              "RelativeDocumentMoniker": "Demo1\\Student.cs",
+              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Student.cs",
+              "RelativeToolTip": "Demo1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:33:38.851Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Person.cs",
+              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Person.cs",
               "RelativeDocumentMoniker": "Demo1\\Person.cs",
-              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Person.cs",
+              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Person.cs",
               "RelativeToolTip": "Demo1\\Person.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:36:11.909Z"
+              "WhenOpened": "2026-09-13T07:36:11.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Program.cs",
+              "DocumentMoniker": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Program.cs",
               "RelativeDocumentMoniker": "Demo1\\Program.cs",
-              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Program.cs",
+              "ToolTip": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Program.cs",
               "RelativeToolTip": "Demo1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-13T07:35:41.057Z",
               "EditorCaption": ""

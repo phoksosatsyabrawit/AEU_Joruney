@@ -28,7 +28,7 @@ namespace Demo1
             set { this.gender = value; }
         }
 
-        public void infomation()
+        public virtual void infomation()
         {
             string info = "Information:\n" +
                 "\nId:" + Id +

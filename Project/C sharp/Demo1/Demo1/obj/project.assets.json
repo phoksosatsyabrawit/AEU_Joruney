@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Demo1.csproj",
+      "projectUniqueName": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Demo1.csproj",
       "projectName": "Demo1",
-      "projectPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\Demo1.csproj",
+      "projectPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\Demo1.csproj",
       "packagesPath": "C:\\Users\\local.brawit\\.nuget\\packages\\",
-      "outputPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\week1\\C sharp\\Demo1\\Demo1\\obj\\",
+      "outputPath": "D:\\AEU\\Year3 Semester1\\4.Code\\Project\\C sharp\\Demo1\\Demo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
